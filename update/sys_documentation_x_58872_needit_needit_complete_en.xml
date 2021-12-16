@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_when_needed" label="Active NeedIt Requests by Type" language="en" table="x_58872_needit_needit">
+    <sys_documentation element="complete" label="%complete" language="en" table="x_58872_needit_needit">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_when_needed</element>
+            <element>complete</element>
             <help/>
             <hint/>
-            <label>Active NeedIt Requests by Type</label>
+            <label>%complete</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
-            <plural>Active NeedIt Requests by Types</plural>
+            <plural>%completes</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-26 19:08:23</sys_created_on>
-            <sys_id>33005d411b140110f32b5464604bcbf5</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Active NeedIt Requests by Type</sys_name>
+            <sys_created_on>2021-12-16 14:40:44</sys_created_on>
+            <sys_id>702438101ba00110f32b5464604bcb0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>%complete</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-            <sys_update_name>sys_documentation_x_58872_needit_needit_u_when_needed_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_58872_needit_needit_complete_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-12-16 15:00:52</sys_updated_on>
+            <sys_updated_on>2021-12-16 14:40:44</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
